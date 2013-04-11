@@ -1,0 +1,5 @@
+- Add usage to README
+- Release to Maven Central
+- See the existing unit test integration in the other TestLink API for Java (old dbfacade)
+- Add custom field
+- Write docs about pom.xml properties
